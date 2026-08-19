@@ -18,7 +18,7 @@ Understand movement, structures, gears, and basic mechanical design.
 
 ### Robotics Projects
 
-Use small projects to connect theoretical concepts with practical applications.
+Use small projects to connect theoretical concepts with <a href="https://scilindia.org/courses/Robotics-course">practical applications</a> .
 
 ### Documentation
 
